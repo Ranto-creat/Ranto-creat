@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning any programming language, learning to hack, build websites,...
 - 💞️ I’m looking to collaborate with people who are passionate about computers and developers.
 - 📫 How to reach me :
--- linkedin : Handraina Ranto
--- e-mail account : ranto.rafalimanana.2@gmail.com/hei.ranto.2@gmail.com
+- linkedin : Handraina Ranto
+- e-mail account : ranto.rafalimanana.2@gmail.com/hei.ranto.2@gmail.com
 - Whatsapp : +261 38 13 277 37
+- Study in HEI MADAGASCAR
   
 
 <!---
