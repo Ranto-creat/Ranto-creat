@@ -6,7 +6,7 @@
 - linkedin : Handraina Ranto
 - e-mail account : ranto.rafalimanana.2@gmail.com/hei.ranto.2@gmail.com
 - Whatsapp : +261 38 13 277 37
-- Study in HEI MADAGASCAR
+- Study at HEI MADAGASCAR
   
 
 <!---
