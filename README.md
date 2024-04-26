@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranto-creat
+- 👋 Hi, I’m @Ranto Handraina
 - 👀 I’m interested in the IT world
 - 🌱 I’m currently learning any programming language, learning to hack, build websites,...
 - 💞️ I’m looking to collaborate with people who are passionate about computers and developers.
