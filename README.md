@@ -1,7 +1,3 @@
-Voici une version modernisée et stylisée de ton profil en français avec des ajouts pour mettre en avant tes compétences et technologies utilisées.  
-
----
-
 # 👋 Salut, je suis **@Ranto Handraina**  
 
 ## 👀 À propos de moi  
